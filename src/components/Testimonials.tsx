@@ -85,7 +85,7 @@ const Testimonials = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Don't just take our word for it. Here's what our clients have to say about working with us.
+            Don&apos;t just take our word for it. Here&apos;s what our clients have to say about working with us.
           </p>
         </div>
 
@@ -106,7 +106,7 @@ const Testimonials = () => {
 
                 {/* Content */}
                 <p className="text-muted-foreground mb-6 leading-relaxed">
-                  "{testimonial.content}"
+                  &ldquo;{testimonial.content}&rdquo;
                 </p>
 
                 {/* Author */}
@@ -160,7 +160,7 @@ const Testimonials = () => {
               Join Our Success Stories
             </h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Ready to transform your business with cutting-edge technology? Let's create your success story together.
+              Ready to transform your business with cutting-edge technology? Let&apos;s create your success story together.
             </p>
             <button 
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 rounded-lg font-medium transition-colors duration-200"

@@ -91,7 +91,7 @@ const FAQ = () => {
               Still Have Questions?
             </h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Can't find the answer you're looking for? Our team is here to help. Get in touch with us for personalized assistance.
+              Can&apos;t find the answer you&apos;re looking for? Our team is here to help. Get in touch with us for personalized assistance.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button 

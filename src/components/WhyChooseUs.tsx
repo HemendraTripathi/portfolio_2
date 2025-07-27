@@ -103,7 +103,7 @@ const WhyChooseUs = () => {
         <div className="mt-16 p-8 rounded-2xl bg-gradient-to-r from-primary/10 to-primary/5 border border-primary/20">
           <div className="text-center">
             <p className="text-lg text-muted-foreground mb-4 italic">
-              "NexTech transformed our business with their innovative solutions. The team's expertise and dedication exceeded our expectations."
+              &ldquo;NexTech transformed our business with their innovative solutions. The team&apos;s expertise and dedication exceeded our expectations.&rdquo;
             </p>
             <div className="flex items-center justify-center space-x-2">
               <div className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center">

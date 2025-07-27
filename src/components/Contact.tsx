@@ -65,7 +65,7 @@ const Contact = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Ready to start your next project? Let's discuss how we can help bring your vision to life.
+            Ready to start your next project? Let&apos;s discuss how we can help bring your vision to life.
           </p>
         </div>
 
@@ -77,7 +77,7 @@ const Contact = () => {
                 Send us a message
               </CardTitle>
               <CardDescription className="text-muted-foreground">
-                Fill out the form below and we'll get back to you within 24 hours.
+                Fill out the form below and we&apos;ll get back to you within 24 hours.
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -88,7 +88,7 @@ const Contact = () => {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-muted-foreground">
-                    Thank you for reaching out. We'll get back to you soon.
+                    Thank you for reaching out. We&apos;ll get back to you soon.
                   </p>
                 </div>
               ) : (
@@ -157,11 +157,11 @@ const Contact = () => {
           <div className="space-y-8">
             <div>
               <h3 className="text-2xl font-bold text-foreground mb-6">
-                Let's discuss your project
+                Let&apos;s discuss your project
               </h3>
               <p className="text-muted-foreground mb-8 leading-relaxed">
                 Whether you have a specific project in mind or just want to explore possibilities, 
-                we're here to help. Our team of experts is ready to discuss your needs and provide 
+                we&apos;re here to help. Our team of experts is ready to discuss your needs and provide 
                 tailored solutions that drive results.
               </p>
             </div>

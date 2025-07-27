@@ -106,7 +106,7 @@ const Services = () => {
             className="bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600 text-white px-8 py-3 rounded-lg font-medium transition-all duration-300 shadow-lg shadow-purple-500/25"
             onClick={() => smoothScrollTo("contact")}
           >
-            Let's Discuss Your Project
+            Let&apos;s Discuss Your Project
           </button>
         </div>
       </div>

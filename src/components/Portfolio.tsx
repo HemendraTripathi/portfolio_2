@@ -89,7 +89,7 @@ const Portfolio = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Explore our latest projects and see how we've helped businesses transform their digital presence.
+            Explore our latest projects and see how we&apos;ve helped businesses transform their digital presence.
           </p>
         </div>
 
@@ -157,7 +157,7 @@ const Portfolio = () => {
               Ready to Start Your Project?
             </h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-              Let's discuss how we can help you achieve your digital goals and create something amazing together.
+              Let&apos;s discuss how we can help you achieve your digital goals and create something amazing together.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button 
